@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/a50fee27-1217-4179-bcd7-4c918bde987f
 
 IBM watsonx offrent un certain nombre d'outils dans son module de gouvernance pour maîtriser ces risques (garde fous ou guard rails , ainsi que supervision active des LLMs) et vous permettrent de mitiger les risques réputationnels, opérationnels ou réglementaires associés à l'utilisation des LLMs pour le grand public. Mais là encore, limiter le périmètre du LLM permet de limiter l'exposition aux risques.
 
-## Panacher script et IA Générative.
+## Panacher script (LLM-powered) et IA Générative (LLM-driven).
 
 Vous l'aurez compris avec watsonx Assistant et son extension watsonx Orchestrate, vous pourrez panacher l'utilisation de script avec l'utilisation des LLMs (de toutes tailles) ou même de règles de décisions.
 Vous aurez la possibilité d'arbitrer en fonction des scénarios, la méthode la plus adaptée au ROI, aux exigences de flexibilité et de maîtrise et cela en tenant comptes des risques.
